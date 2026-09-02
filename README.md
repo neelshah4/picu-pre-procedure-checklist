@@ -11,7 +11,7 @@ network request of any kind after the page loads.
 
 ## It stores nothing
 
-There is no field to type a patient identifier into, and there is nowhere for one to go. No
+No field on the page accepts a patient identifier, and nothing stores one. No
 local storage, no session storage, no cookies, no analytics, no server. Ticks clear when you
 leave a procedure and when you start a new patient. The only outbound link is the fellowship's
 own feedback form.
@@ -22,7 +22,7 @@ The 88 checklist items come verbatim from the division's *Pre-Procedure Checklis
 Those are shown as solid-bordered rows with no tag.
 
 Rows marked **Added** are not division policy. They come from the published evidence and are
-offered, not mandated — each carries a note with its reason and its source. The distinction is
+offered, not mandated; each carries a note with its reason and its source. The distinction is
 stated in the legend on the home screen, because a fellow needs to know at a glance which lines
 are the institution speaking and which are the literature.
 
@@ -38,7 +38,7 @@ surface.
 ## Structure
 
 Items are grouped into at most three pause points of about seven items each, then a fourth
-**After** block for the post-procedure huddle. That shape is not arbitrary — the checklist
+**After** block for the post-procedure huddle. That shape is not arbitrary. The checklist
 literature puts the ceiling at fewer than ten items *per pause point*, and the WHO surgical
 checklist clears it the same way, by splitting 19 items across three phases.
 
