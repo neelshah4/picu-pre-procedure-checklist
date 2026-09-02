@@ -1,0 +1,7 @@
+# Research briefs, build scratch, and QA working files stay local.
+_work/*
+# EXCEPT the supervision policy source. The page prints that text verbatim and attributes it
+# to the division, so the source it was quoted from has to be auditable from the repo itself.
+# Excluding it was the defect clinical QA raised on 2026-09-02.
+!_work/SOURCE-SUPERVISION-POLICY.md
+.DS_Store
