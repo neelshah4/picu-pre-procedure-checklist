@@ -5,8 +5,9 @@ pediatric intensive care unit. It is not a clinical protocol, an order set, or a
 clinical judgement, institutional policy, or direct supervision.
 
 The 88 core checklist items are quoted from an internal Washington University Pediatric Critical
-Care document. Items marked **Added** are not institutional policy; they are drawn from published
-evidence and are offered for consideration.
+Care document. Every other row, note and reference table on the page was added from published
+evidence and carries no institutional authority. Which is which is stated in the About block
+under "Where the lines come from"; it is no longer marked row by row.
 
 The supervision policy text is quoted verbatim from the division's own guidance. Where this page
 and the division's current policy differ, the division's policy governs.
